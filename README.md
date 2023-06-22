@@ -16,13 +16,13 @@ Below is logos in **32*32** grid, if universities share same coordinate, only th
 
 ## *Passports*: assembles the images of passports crawled from WikiPedia
 ### Dense paving
-Below is the densely paved logos for **835** universities:
+Below is the densely paved logos for **199** passports:
 <figure>
 <img src="outputs/Dense-200-logos.png" alt="Densely paved logos" style="width:95%" />
 </figure>
 
 ### Grid
-Below is logos in **32*32** grid, if countries share same coordinate, sorted by the first letter of countries' codes ([ISO 3166-1 Alpha‑2](https://en.wikipedia.org/wiki/ISO_3166-1))
+Below is logos in **15*15** grid, if passports share same coordinate, sorted by the first letter of countries' codes ([ISO 3166-1 Alpha‑2](https://en.wikipedia.org/wiki/ISO_3166-1))
 <figure>
 <img src="outputs/Grid 15 by 15.png" alt="Logos in grid" style="width:95%" />
 </figure>
@@ -40,5 +40,6 @@ Thanks to [ARWU](https://www.shanghairanking.com/rankings/arwu/2022) for the dat
 
 Thanks to [WikiPedia](https://en.wikipedia.org/wiki/List_of_passports) for the passport images.
 
+[Twins repo](https://github.com/zhoudaxia233/UniLogo)
 
 *Note: This project is for research purposes only. All logos are trademarks of their respective universities and are used under the principles of fair use.*
